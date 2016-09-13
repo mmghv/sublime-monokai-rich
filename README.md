@@ -26,11 +26,11 @@ Go to `Preferences -> Browse Packages`, and then either download and unzip this 
 git clone https://github.com/mmghv/sublime-monokai-rich.git "Monokai Rich"
 ```
 
-
 ### 2. Switch Themes
 
 Then inside Sublime Text, go to `Preferences -> Color Scheme -> Monokai Rich -> Monokai Rich`.
 
+<br>
 
 ## Monokai Enhancements
 
@@ -39,6 +39,7 @@ Changed styles, added many scope and styles for :
 * `HTML`
 * `CSS`
 * `Javascript`
+* `Embedded Code`
 * `Laravel Blade`
 * `Markdown`
 
@@ -49,21 +50,33 @@ Changed styles, added many scope and styles for :
 ## Screenshots
 
 ### PHP :
-![php](https://cloud.githubusercontent.com/assets/5418859/18282759/d40ad348-7462-11e6-8e14-75d096beb568.png)
+![php](https://cloud.githubusercontent.com/assets/5418859/18473320/8f5bd288-79bc-11e6-9d0d-73b6d618ab76.png)
+
+<br>
 
 ### PHP (heredoc, nowdoc) :
 ![heredoc](https://cloud.githubusercontent.com/assets/5418859/18282785/f0f11c74-7462-11e6-934b-932db612c170.png)
 
+<br>
+
 ### HTML :
 ![html](https://cloud.githubusercontent.com/assets/5418859/18282802/ffe06cee-7462-11e6-8575-43a69cb06d25.png)
+
+<br>
 
 ### CSS :
 ![css](https://cloud.githubusercontent.com/assets/5418859/18282818/070c8124-7463-11e6-9969-63eb19fa21c9.png)
 
+<br>
+
 ### Blade :
+_**Note:**_ For blade syntax highlight to work, **[Laravel Blade Highlighter](https://packagecontrol.io/packages/Laravel%20Blade%20Highlighter)** package needed.
+
 ![blade](https://cloud.githubusercontent.com/assets/5418859/18282835/1458e1ec-7463-11e6-84af-37aa7b6560c9.png)
 
 ***
+
+<br>
 
 ## Author
 

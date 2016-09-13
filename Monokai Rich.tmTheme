@@ -195,7 +195,7 @@
 			<key>name</key>
 			<string>Punctuation block braces</string>
 			<key>scope</key>
-			<string>punctuation.section.block, punctuation.definition.block, punctuation.definition.dictionary, punctuation.section.property-list</string>
+			<string>punctuation.section.block, punctuation.definition.block, punctuation.definition.dictionary, punctuation.definition.expression, punctuation.section.property-list</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -811,7 +811,7 @@
 			<key>name</key>
 			<string>Embedded code markers</string>
 			<key>scope</key>
-			<string>punctuation.section.embedded</string>
+			<string>punctuation.section.embedded.begin, punctuation.section.embedded.end</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -852,9 +852,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3d3d34</string>
+				<string>#35352D</string>
 				<key>foreground</key>
-				<string>#8e8b72</string>
+				<string>#76735F</string>
 			</dict>
 		</dict>
 		<dict>
