@@ -822,6 +822,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Blade @php tag</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.begin entity.name.tag, punctuation.section.embedded.end entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#1998FF</string>
+				<key>background</key>
+				<string>#17171187</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Embedded block: heredoc/nowdoc</string>
 			<key>scope</key>
 			<string>string.unquoted.heredoc, string.unquoted.nowdoc, meta.embedded.html, meta.embedded.css, meta.embedded.js, meta.embedded.sql</string>
